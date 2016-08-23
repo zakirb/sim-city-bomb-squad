@@ -3,6 +3,9 @@ Someone left a bomb in the middle of Sim City. It's your first day on the
 bomb squad and it's your job to defuse it. The entire city is relying on
 you!
 
+You can play it live here:
+<http://5tephen.com/sim-city-bomb-squad/>
+
 ## The Basics
 Create a website that simulates diffusing a bomb. The bomb is made up of a
 timer and five wires. The timer counts down from thirty seconds to zero. The
