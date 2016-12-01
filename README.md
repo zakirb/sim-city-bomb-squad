@@ -95,16 +95,8 @@ information:
   lines of CSS, about 170 lines of JavaScript, and about ten functions.
 - Demonstrate knowing when to use`setInterval` and `setTimeout` appropriately.
 - Use `clearInterval` and `clearTimeout` when timers are no longer needed.
-- Use at least one array `forEach` function to iterate through a list.
 - Keep the number of global variables to a minimum. The solution code
   uses six global variables.
-
-```js
-var list = [1, 2, 3];
-list.foreach(function(element) {
-  console.log(element);
-});
-```
 
 ### Bonus: Add Sounds
 The website will really come alive after adding sound. There's a collection of
